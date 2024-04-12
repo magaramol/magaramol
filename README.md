@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Gen Ai
 - 👯 I’m looking to collaborate on Gen AI projects
 - 📫 How to reach me: amol.magar@hotmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amol-magar/)
+
 <!-- This is a comment and will not be displayed in the final output -
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
