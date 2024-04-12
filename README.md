@@ -1,27 +1,19 @@
 ### Hi there 👋
 
-<!--
-**magaramol/magaramol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 
-<!-- This is a comment and will not be displayed in the final output -->
 
-- 🔭 I’m currently working on Computer vision
-- 🌱 I’m currently learning Gen Ai
-- 👯 I’m looking to collaborate on Gen AI projects
+
+### About Me & Machine Learning Enthusiast
+
+- Hi there! 👋 I'm Amol Magar, a passionate computer vision and artificial intelligence enthusiast.
+- 🔭 I’m currently working on computer vision projects and learning about Gen AI.
+- 🌱 I’m eager to collaborate on projects that push the boundaries of AI technology.
+- I'm also a machine learning enthusiast, constantly exploring new algorithms and leveraging data to drive insights and innovation.
 - 📫 How to reach me: amol.magar@hotmail.com
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amol-magar/)
-
-<!-- This is a comment and will not be displayed in the final output -
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/amol-magar/) <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white">
 
 
--->
 
 ### Languages
 
@@ -46,3 +38,4 @@ Here are some ideas to get you started:
 ### Deep Learning
 
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-800080?logo=TensorFlow&logoColor=white)
+
